@@ -1,2 +1,2 @@
 # Hospital-Management
-Code for a Hospital Management system implemented using Java.
+Code for a Hospital Management system that was written in Java.
